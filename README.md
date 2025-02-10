@@ -1,2 +1,2 @@
-# Computer-
-Repository for computer sience III jobs
+# Computer Science III
+Repository for computer sience III workshops
